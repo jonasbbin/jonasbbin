@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am a computer science graduate and throughout my studies, I acquired insights in the domain of computer science and AI.  Feel free to reach out in case you are interested in more details.
+
+I am eager to connect with new people and solve complex problems.
+
+:point_right: You can also find me on [LinkedIn](https://ch.linkedin.com/in/jonas-binder-a44203296)
 <!--
 **jonasbbin/jonasbbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
