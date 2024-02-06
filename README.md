@@ -4,7 +4,7 @@ I am a computer science graduate and throughout my studies, I acquired insights 
 
 I am eager to connect with new people and solve complex problems.
 
-:point_right: You can also find me on [LinkedIn](https://ch.linkedin.com/in/jonas-binder-a44203296)
+:point_right: You can also find me on [LinkedIn](https://www.linkedin.com/in/jonas-binder-a44203296/)
 <!--
 **jonasbbin/jonasbbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
